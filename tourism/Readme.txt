@@ -18,3 +18,6 @@ Login Details for user:
 Open Your browser put inside browser “http://localhost/tms/”
 Username : anuj@gmail.com
 Password : Test@123
+
+It is a simple web application
+
