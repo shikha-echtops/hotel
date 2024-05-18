@@ -1,5 +1,4 @@
-```Installation Steps(Configuration)```
----
+Installation Steps(Configuration)
 
 
 1. Download and Unzip file on your local system.
