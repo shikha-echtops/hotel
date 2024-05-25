@@ -1,10 +1,16 @@
-Installation Steps(Configuration)
+### Installation Steps(Configuration)
 
+ Copy tms folder and  tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-1. Download and Unzip file on your local system.
-2.Copy tms folder and  tms folder inside root directory (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
-Database Configuration
+## Clone git repo 
+```
+git clone git@github.com:Hemantrajput1997/hotel.git
+```
+### Make zip of sql file
+```
+mv tms.sql tms.sql.zip
+```
+### Database Configuration
 
 Open phpmyadmin
 Create Database tms
